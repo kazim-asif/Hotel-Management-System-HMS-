@@ -1,0 +1,39 @@
+Receipt
+Customer Name: Usman 
+Customer ID: 1234
+Phone Number: 03010101024
+Room ID: 2
+Day: Wednesday
+Duration: 5 days
+Total Room Charges: RM 1750.0
+Service Tax (10%): RM 175.0
+Tourism Tax: RM 50.0
+Total Charges: RM 1975.0
+
+
+Receipt
+Customer Name: Saim 
+Customer ID: 1234
+Phone Number: 03010101023
+Room ID: 3
+Day: Tuesday
+Duration: 3 days
+Total Room Charges: RM 1050.0
+Service Tax (10%): RM 105.0
+Tourism Tax: RM 30.0
+Total Charges: RM 1185.0
+
+
+Receipt
+Customer Name: Usman
+Customer ID: 1
+Phone Number: 1
+Room ID: 1
+Day: Monday
+Duration: 1 days
+Total Room Charges: RM 350.0
+Service Tax (10%): RM 35.0
+Tourism Tax: RM 10.0
+Total Charges: RM 395.0
+
+
